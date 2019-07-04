@@ -9,5 +9,5 @@ document.getElementById('button').addEventListener("click", function(){
   var number2=   Number(document.getElementById("num2").value);
   result = (number1 * number2)/100;
 
-  alert(`you will get ${result} ` );
+  alert(`you will get ${result} rupees!! Daba ki vachai` );
 });
