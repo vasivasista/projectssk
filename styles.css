@@ -1,0 +1,12 @@
+body{
+  text-align: center;
+  margin : 10rem 0rem ;
+}
+h1{
+  margin: 1rem;
+}
+/* @media(min-width : 900px){
+  body{
+    margin: 10 0rem;
+  }
+} */
